@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Dunconius/Dunconius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Duncan, a passionate web developer with a background in interior design and 3D animation. I specialize in creating user-centric, intuitive web solutions. I love problem solving and the technical side of design.
 
-Here are some ideas to get you started:
+## 🚀 Skills and Technologies
+- HTML, CSS, JavaScript
+- React, Vue.js
+- Node.js, Express
+- UX/UI Design
+- 3D Modeling and Animation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/duncanbean/)
+- [Portfolio](https://duncanbean-portfolio.netlify.app/)
+
+## 📝 Recent Projects
+- **Timetable API**: A school timetabling backend using Flask and PostgreSQL with full CRUD functionality and RESTful endpoints.
+- [Repo](https://github.com/Dunconius/timetable_api)
+- **Catstagram**: An instagram style cat photo app built with React and JavaScript, fetching data from the Cat API. Built in 48 hours as part of a hackathon.
+- [Repo](https://github.com/Dunconius/cat-generator)
+- [Deployed Site](https://dunconius-catstagram.netlify.app/)
