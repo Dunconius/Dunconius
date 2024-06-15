@@ -14,8 +14,12 @@
 - [Portfolio](https://duncanbean-portfolio.netlify.app/)
 
 ## 📝 Recent Projects
-- **Timetable API**: A school timetabling backend using Flask and PostgreSQL with full CRUD functionality and RESTful endpoints.
+
+**Timetable API:**
+- A school timetabling backend using Flask and PostgreSQL with full CRUD functionality and RESTful endpoints.
 - [Repo](https://github.com/Dunconius/timetable_api)
-- **Catstagram**: An instagram style cat photo app built with React and JavaScript, fetching data from the Cat API. Built in 48 hours as part of a hackathon.
+
+**Catstagram:**
+- An instagram style cat photo app built with React and JavaScript, fetching data from the Cat API. Built in 48 hours as part of a hackathon.
 - [Repo](https://github.com/Dunconius/cat-generator)
 - [Deployed Site](https://dunconius-catstagram.netlify.app/)
